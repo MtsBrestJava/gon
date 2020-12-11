@@ -21,7 +21,7 @@ public class Pokupki {
     static class Product{
         private int id;
 
-        public void setId(){
+        public void setId(int id){
             this.id = id;
         }
         public int getId(){
