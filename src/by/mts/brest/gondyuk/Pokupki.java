@@ -17,7 +17,7 @@ public class Pokupki {
             System.out.println("Перезапустите программу и введите целое число > 0");
         }
     }
-//1213154354135131
+
     static class Product{
         private int id;
 
