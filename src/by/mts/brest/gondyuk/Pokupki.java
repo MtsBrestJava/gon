@@ -11,14 +11,13 @@ public class Pokupki {
         try {
             num = s.nextInt();
             product1.id = num;
-            // !!!не могу реализовать как сделать так, что бы введенное через Scanner число записалось как id
         }
         catch (Exception e) {
             //e.printStackTrace();
             System.out.println("Перезапустите программу и введите целое число > 0");
         }
     }
-
+//1213154354135131
     static class Product{
         private int id;
 
